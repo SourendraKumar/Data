@@ -1,0 +1,662 @@
+[
+    {
+        "Firstcol": "Alzheimers",
+        "Secondcol": "A type of dementia that causes problems with memory, thinking and behavior. Symptoms usually develop slowly and get worse over time, becoming severe enough to interfere with daily tasks.",
+        "Thirdcol": "dementia",
+        "FourthCol": "The brain",
+        "Fifthcol": "Neurologists, Geriatricians, Geriatric Psychiatrists"
+    },
+    {
+        "Firstcol": "Abdominal Aortic or Thoracic Aneurysm",
+        "Secondcol": "An enlarged area in the lower or upper part of the aorta, the major blood vessel that supplies blood to the body. The aorta, about the thickness of a garden hose, runs from your heart through the center of your chest and abdomen.",
+        "Thirdcol": "",
+        "FourthCol": "Circulatory System",
+        "Fifthcol": "Cardiovascular Medicine, Cardiovascular Surgery, Radiology, Vascular and Endovascular Surgery, Vascular Medicine"
+    },
+    {
+        "Firstcol": "Aortic Aneurysm, Cerebral Aneurysm, Intracranial Aneurysm",
+        "Secondcol": "A weak bulging spot on the wall of a brain artery very much like a thin balloon or weak spot on an inner tube. Wear and tear on the weak spot over time may cause the aneurysm to rupture and allow blood to escape into the space around the brain. A ruptured brain aneurysm commonly requires advanced surgical treatment.",
+        "Thirdcol": "group with brain conditions",
+        "FourthCol": "The brain",
+        "Fifthcol": "Neurologists, Neurosurgeons"
+    },
+    {
+        "Firstcol": "Ventricular Aneurysm",
+        "Secondcol": "A blood-filled bulge that occurs as a result of an area of weakened tissue in the heart wall. ",
+        "Thirdcol": "group with heart conditions",
+        "FourthCol": "The heart",
+        "Fifthcol": "Cardiologists, Cardiovascular Surgeons"
+    },
+    {
+        "Firstcol": "Arthritis",
+        "Secondcol": "An informal way of referring to joint pain or joint disease. There are more than 100 different types of arthritis and related conditions. The most common type is osteoarthritis, also known as degenerative arthritis, which occurs when cartilage – the slick, cushioning surface on the ends of bones – wears away, bone rubs against bone, causing pain, swelling and stiffness. ",
+        "Thirdcol": "group with joints conditions",
+        "FourthCol": "Bones, joints",
+        "Fifthcol": "Rheumatologists, Physical Therapists"
+    },
+    {
+        "Firstcol": "Asthma",
+        "Secondcol": "A chronic disease of the airways, characterized by swelling, inflammation, and sensitivity to inhaled triggers, that makes it difficult to move air in and out of the lungs (breathe).",
+        "Thirdcol": "group with lung or breathing conditions",
+        "FourthCol": "Lungs, respiratory system",
+        "Fifthcol": "Allergists, Pulmonologists, Internists"
+    },
+    {
+        "Firstcol": "Atrial Fibrillation, PVCs (premature ventricular contractions)",
+        "Secondcol": "An irregular and often rapid heart rate that can increase your risk of stroke, heart failure and other heart-related complications.",
+        "Thirdcol": "group with heart conditions",
+        "FourthCol": "The heart",
+        "Fifthcol": "Cardiologists "
+    },
+    {
+        "Firstcol": "Back pain",
+        "Secondcol": "One of the most common reasons people go to the doctor; may be experienced as muscle ache, shooting or stabbing pain, pain that radiates down the leg, pain that worsens with bending, lifting, standing or walking, or pain that improves with reclining, and may be associated with a fall or other injury.",
+        "Thirdcol": "low back pain, chronic back pain, chronic low back pain",
+        "FourthCol": "The musculoskeletal system",
+        "Fifthcol": "Neurologists, Spine Care Specialists, Radiologists, Surgeons"
+    },
+    {
+        "Firstcol": "Periperal Artery Disease (PAD), atheroslerosis",
+        "Secondcol": "A common circulatory problem in which narrowed arteries reduce blood flow to your limbs.",
+        "Thirdcol": "group with heart conditions",
+        "FourthCol": "Circulatory system",
+        "Fifthcol": "Cardiovascular Medicine, Cardiovascular Surgery, Radiology, Vascular and Endovascular Surgery, Vascular Medicine"
+    },
+    {
+        "Firstcol": "Bipolar disorder",
+        "Secondcol": "A mental health condition that causes extreme mood swings that include emotional highs (mania or hypomania) and lows (depression)",
+        "Thirdcol": "",
+        "FourthCol": "Behavioral health, mental health",
+        "Fifthcol": "Psychiatrists, Psychologists"
+    },
+    {
+        "Firstcol": "Bladder infection, urinary tract infection",
+        "Secondcol": "An infection in any part of the urinary system - the kidneys, ureters, bladder and urethra. Most infections involve the lower urinary tract - the bladder and the urethra.",
+        "Thirdcol": "",
+        "FourthCol": "Urinary system, actute pyelonephritis (kidney infection), cystitis (bladder infection), urethritis (infection in urethra)",
+        "Fifthcol": "Gastroenterology and Hepatology, Infectious Diseases, Urologists"
+    },
+    {
+        "Firstcol": "Blood clot in lung, pulmonary embolism",
+        "Secondcol": "A blockage in one of the pulmonary arteries in the lungs; in most cases, caused by a blood clot that travels from the legs or, rarely, other parts of the body (deep vein thrombosis); can be life threatening.",
+        "Thirdcol": "",
+        "FourthCol": "Circulatory system, respiratory system, shortness of breath, heart disease, cancer, surgery",
+        "Fifthcol": "Cardiovascular Medicine, Cardiovascular Surgery, Critical Care, Pulmonary Medicine"
+    },
+    {
+        "Firstcol": "blood clot in my legs",
+        "Secondcol": "Having a blood clot in your legs is called a deep vein thrombosis (DVT). A blood clot forms in one or more of the deep veins in your body, usually in your legs. It can cause leg pain or swelling, but also can occur with no symptoms. These can develop if you have certain medical conditions that affect how your blood clots. It can also happen if you dont move for a long time, such as after surgery or an accident, or when youre confined to bed.  DVT can be very serious because blood clots in your veins can break loose, travel through your bloodstream and lodge in your lungs, blocking blood flow ",
+        "Thirdcol": "DVT, blood clots",
+        "FourthCol": "The blood system ( circulatory) recent surgery or a chronic condition such as heart disease ",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "blood pressure cuff",
+        "Secondcol": "Having a blood pressure monitor to check your BP at home is especially useful if your doctor told you that you have high blood pressure (whether you are taking medication or not).  Anyone starting medicine to treat high blood pressure treatment should take their BP daily or at least 3 times a week and record the date, time and result. Bring the log to your next doctor appointment.",
+        "Thirdcol": "group with hypertension, high blood pressure",
+        "FourthCol": "The Heart-high blood pressure",
+        "Fifthcol": "The cuff on the monitor must be the right size for your arm.  Small adult cuff: fits upper arm with circumference between 7-9 inches\r\nStandard adult cuff: fits upper arm with circumference between 9-13 inches\r\nLarge adult cuff: fits upper arm with circumference between 13 and 17 inches"
+    },
+    {
+        "Firstcol": "bulging/herniated disc",
+        "Secondcol": "The disks in your spine act as cushions between the vertebrae. Think of them as miniature jelly doughnuts, exactly the right size to fit between your vertebrae.",
+        "Thirdcol": "N/A",
+        "FourthCol": "The spine, back pain",
+        "Fifthcol": "chiroprator, neurosurgery, spine surgery, epidural injections"
+    },
+    {
+        "Firstcol": "cancer or carcinoma",
+        "Secondcol": "Cancer is  a collection of many diseases that all involve growth of abnormal cells. There are more than 100 different types of cancer. Most cancers are named for where they start. For example, lung cancer starts in the lung, and breast cancer starts in the breast. The spread of cancer from one part of the body to another is called metastasis. Symptoms and treatment depend on the cancer type and how advanced it is. Most treatment plans may include surgery, radiation and/or chemotherapy. Some may involve hormone therapy, immunotherapy or other types of biologic therapy, or stem cell transplantation",
+        "Thirdcol": "group with lung or breathing conditions",
+        "FourthCol": "chemotherapy treament, Oncologist",
+        "Fifthcol": "Oncologist"
+    },
+    {
+        "Firstcol": "chemotherapy, chemo",
+        "Secondcol": "Chemotherapy (chemo) usually refers to the use of medicines or drugs to treat cancer.",
+        "Thirdcol": "group with cancer",
+        "FourthCol": "Cancer",
+        "Fifthcol": "Oncology, "
+    },
+    {
+        "Firstcol": "chest pain",
+        "Secondcol": "Chest pain appears in many forms, ranging from a sharp stab to a dull ache. Sometimes chest pain feels crushing or burning. In certain cases, the pain travels up the neck, into the jaw, and then radiates to the back or down one or both arms. Many different problems can cause chest pain. The most life-threatening causes involve the heart or lungs. Because chest pain can indicate a serious problem, its important to seek immediate medical help.",
+        "Thirdcol": "group with heart disease",
+        "FourthCol": "Heart Disease",
+        "Fifthcol": "Cardiologist"
+    },
+    {
+        "Firstcol": "CHF congestive heart failure",
+        "Secondcol": "Heart failure, sometimes known as congestive heart failure, occurs when your heart muscle doesnt pump blood as well as it should. Certain conditions, such as narrowed arteries in your heart (coronary artery disease) or high blood pressure, gradually leave your heart too weak or stiff to fill and pump efficiently.",
+        "Thirdcol": "group with heart disease",
+        "FourthCol": "Heart Disease",
+        "Fifthcol": "Cardiologist"
+    },
+    {
+        "Firstcol": "chronic low back pain",
+        "Secondcol": "Back pain that comes on suddenly and lasts less than six weeks (acute) can be caused by a fall or heavy lifting. Back pain that lasts more than three months (chronic) is less common than acute pain. Back pain often develops without a cause that your doctor can identify with a test or an imaging study. Conditions commonly linked to back pain include: Muscle or ligament strain, bulging or ruptured disks, Arthritis, Skeletal irregularities or Osteoporosis",
+        "Thirdcol": "group with pain management, chiropractor, spine surgery",
+        "FourthCol": "Pain management, chiropractor, spine surgery",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "Chronic Renal Failure or End Stage Renal Disease",
+        "Secondcol": "End-stage renal disease, also called end-stage kidney disease, occurs when chronic kidney disease — the gradual loss of kidney function — reaches an advanced state. In end-stage renal disease, your kidneys are no longer able to work as they should to meet your bodys needs",
+        "Thirdcol": "group with dialysis",
+        "FourthCol": "Dialysis",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "Chronic Renal Failure or Chronic kidney Disease ",
+        "Secondcol": "Chronic kidney disease, also called chronic kidney failure, describes the gradual loss of kidney function. Your kidneys filter wastes and excess fluids from your blood, which are then excreted in your urine. When chronic kidney disease reaches an advanced stage, dangerous levels of fluid, electrolytes and wastes can build up in your body",
+        "Thirdcol": "",
+        "FourthCol": "Dialysis",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "continuous glucose monitor (CGM)",
+        "Secondcol": "Used to measure blood sugar. A sensor placed under the skin to measure blood sugar level; transmits each reading to a small recording device worn on your body; sounds an alarm if blood sugar level becomes too low or too high",
+        "Thirdcol": "group with diabetes",
+        "FourthCol": "Diabetes",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "COPD (Chronic obstructive pulmonary disease)",
+        "Secondcol": "\r\nChronic obstructive pulmonary disease (COPD) is a chronic inflammatory lung disease that causes obstructed airflow from the lungs. Symptoms include breathing difficulty, cough, mucus (sputum) production and wheezing. Its caused by long-term exposure to irritating gases or particulate matter, most often from cigarette smoke. People with COPD are at increased risk of developing heart disease, lung cancer and a variety of other conditions. Emphysema and chronic bronchitis are the two most common conditions that contribute to COPD. Chronic bronchitis is inflammation of the lining of the bronchial tubes, which carry air to and from the air sacs (alveoli) of the lungs. Its characterized by daily cough and mucus (sputum) production. Emphysema is a condition in which the alveoli at the end of the smallest air passages (bronchioles) of the lungs are destroyed as a result of damaging exposure to cigarette smoke and other irritating gases and particulate matter. COPD is treatable. With proper management, most people with COPD can achieve good symptom control and quality of life, as well as reduced risk of other associated conditions\r\n\r\n",
+        "Thirdcol": "group with lung or breathing conditions",
+        "FourthCol": " The lungs- home oxygen, smoking, lung disease",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "coronary artery disease",
+        "Secondcol": "Coronary artery disease develops when the major blood vessels that supply your heart with blood, oxygen and nutrients (coronary arteries) become damaged or diseased. Cholesterol-containing deposits (plaque) in your arteries and inflammation are usually to blame for coronary artery disease. When plaque builds up, it narrows your coronary arteries, decreasing blood flow to your heart. Eventually, the decreased blood flow may cause chest pain (angina), shortness of breath, or other coronary artery disease signs and symptoms. A complete blockage can cause a heart attack",
+        "Thirdcol": "group with lung or breathing conditions",
+        "FourthCol": "Heart Disease, heart attack",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "Crohns Disease/ ulcerative colitis",
+        "Secondcol": "Crohns disease is an inflammatory bowel disease (IBD). It causes inflammation of your digestive tract, which can lead to abdominal pain, severe diarrhea, fatigue, weight loss and malnutrition",
+        "Thirdcol": "group with lung or breathing conditions",
+        "FourthCol": "The GI tract, abdominal pain, GI bleeding",
+        "Fifthcol": "Gastroenterologist, Rheumatologist"
+    },
+    {
+        "Firstcol": "Ulcerative Colitis",
+        "Secondcol": "Ulcerative colitis is an inflammatory bowel disease (IBD) that causes long-lasting inflammation and ulcers (sores) in your digestive tract. Ulcerative colitis affects the innermost lining of your large intestine (colon) and rectum. Symptoms usually develop over time, rather than suddenly. Ulcerative colitis can be debilitating and can sometimes lead to life-threatening complications. While it has no known cure, treatment can greatly reduce signs and symptoms of the disease and even bring about long-term remission.",
+        "Thirdcol": "Crohns Disease",
+        "FourthCol": "The GI tract, abdominal pain, GI bleeding",
+        "Fifthcol": "Gastroenterologist "
+    },
+    {
+        "Firstcol": "CVA (cerebrovascular accident)  stroke",
+        "Secondcol": "A stroke is a medical emergency. Strokes happen when blood flow to your brain stops. Within minutes, brain cells begin to die. There are two kinds of stroke. The more common kind, called ischemic stroke, is caused by a blood clot that blocks or plugs a blood vessel in the brain. The other kind, called hemorrhagic stroke, is caused by a blood vessel that breaks and bleeds into the brain. \"Mini-strokes\" or transient ischemic attacks (TIAs), occur when the blood supply to the brain is briefly interrupted.",
+        "Thirdcol": "group with brain conditions",
+        "FourthCol": "The brain- paralysis",
+        "Fifthcol": "Neurologist"
+    },
+    {
+        "Firstcol": "degenerative disc disease (DDD)",
+        "Secondcol": "Discs between the vertebra in the spine are like shock absorbers between the bones of the spine and are designed to help the back stay flexible while resisting forces. As a normal process of aging, the rubbery discs begin to shrink and lose integrity. The spinal discs wear as they age. The discs may collapse completely and cause the joints in the vertebrae to rub against one another, causing the pain and stiffness of osteoarthritis.",
+        "Thirdcol": "group with the spine- back pain",
+        "FourthCol": "The Spine- back pain",
+        "Fifthcol": "Neurologist"
+    },
+    {
+        "Firstcol": "diabetes, diabetes mellitus, insulin dependent Type 1 or Type 2 diabetes, non-insulin dependent diabetes",
+        "Secondcol": "a disease in which the body’s ability to produce or respond to the hormone insulin is impaired, resulting in abnormal metabolism of carbohydrates and elevated levels of glucose in the blood and urine.",
+        "Thirdcol": "group with diabetes",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "dialysis ",
+        "Secondcol": "The process of removing waste products and excess fluid from the body. Dialysis is necessary when the kidneys are not able to adequately filter the blood. There are two types of dialysis: hemodialysis and peritoneal dialysis. Hemodialysis uses a machine and a filter to remove waste products and water from the blood. Peritoneal dialysis uses a fluid (dialysate) that is placed into the patients abdominal cavity to remove waste products and fluid from the body.",
+        "Thirdcol": "group with kidney disease",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "Obesity",
+        "Secondcol": "Obesity is a complex disorder involving an excessive amount of body fat. Obesity isnt just a cosmetic concern. It increases your risk of diseases and health problems, such as heart disease, diabetes and high blood pressure. Obesity is diagnosed when your body mass index (BMI) is 30 or higher.",
+        "Thirdcol": "diet (dietician, nutritionist)",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "diverticulitis",
+        "Secondcol": "The inflammation or infection of the divertiulae, which are small, bulging pouches that can form in the lining of your digestive system. They are found most often in the lower part of the large intestine (colon). ",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "dressings (pads)",
+        "Secondcol": "A sterile pad or compress applied to a wound to promote healing and protect the wound from further harm. A dressing is designed to be in direct contact with the wound, as distinguished from a bandage, which is most often used to hold a dressing in place.",
+        "Thirdcol": "group with wounds",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "drinking problem (Alcoholism)",
+        "Secondcol": "An addiction to the consumption of alcoholic liquor or the mental illness and compulsive behavior resulting from alcohol dependency.",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "drug (substance) abuse",
+        "Secondcol": "Compulsive, excessive, and self-damaging use of habit forming drugs or substances, leading toaddiction or dependence, serious physiological injury (such as damage to kidneys, liver, heart) and/or psychological harm",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "emphysema/chronic bronchitis",
+        "Secondcol": "A condition in which the air sacs of the lungs are damaged and enlarged, causing breathlessness.",
+        "Thirdcol": "group with lung or breathing conditions"
+    },
+    {
+        "Firstcol": "enlarged prostate",
+        "Secondcol": "Benign prostatic hyperplasia (BPH) — also called prostate gland enlargement — is a common condition as men get older. An enlarged prostate gland can cause uncomfortable urinary symptoms, such as blocking the flow of urine out of the bladder. It can also cause bladder, urinary tract or kidney problems.",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "episodes of abnormally fast/racing heart beat",
+        "Secondcol": "Heart rhythm problems (heart arrhythmias) occur when the electrical impulses that coordinate your heartbeats dont work properly, causing your heart to beat too fast, too slow or irregularly. Heart arrhythmias (uh-RITH-me-uhs) may feel like a fluttering or racing heart and may be harmless. However, some heart arrhythmias may cause bothersome — sometimes even life-threatening — signs and symptoms.",
+        "Thirdcol": "group with heart conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "gastric ulcer or peptic ulcer",
+        "Secondcol": "Open sores that develop on the inside lining of your stomach and the upper portion of your small intestine. The most common symptom of a peptic ulcer is stomach pain.",
+        "Thirdcol": "group with digestive system",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "GI bleeding (rectal, stomach,) ",
+        "Secondcol": "Gastrointestinal (GI) bleeding is a symptom of a disorder in your digestive tract. The blood often appears in stool or vomit but isnt always visible, though it may cause the stool to look black or tarry. The level of bleeding can range from mild to severe and can be life-threatening.",
+        "Thirdcol": "group with digestive system",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "glucometer (glucose monitor)",
+        "Secondcol": "A small electronic device that measures the amount of sugar in a small sample of blood, usually from your fingertip, that you place on a disposable test strip. ",
+        "Thirdcol": "group with diabetes",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "heart attack (myocardial infarction)",
+        "Secondcol": "A heart attack occurs when the flow of blood to the heart is blocked. The blockage is most often a buildup of fat, cholesterol and other substances, which form a plaque in the arteries that feed the heart (coronary arteries). The plaque eventually breaks away and forms a clot. The interrupted blood flow can damage or destroy part of the heart muscle.",
+        "Thirdcol": "group with heart conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "heart disease",
+        "Secondcol": "A range of conditions that affect the heart. These include blood vessel diseases, such as coronary artery disease; heart rhythm problems (arrhythmias); and heart defects youre born with (congenital heart defects), among others.",
+        "Thirdcol": "group with heart conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "heart failure",
+        "Secondcol": "Heart failure, sometimes known as congestive heart failure, occurs when your heart muscle doesnt pump blood as well as it should. Certain conditions, such as narrowed arteries in your heart (coronary artery disease) or high blood pressure, gradually leave your heart too weak or stiff to fill and pump efficiently.",
+        "Thirdcol": "group with heart conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "heart murmur",
+        "Secondcol": "Sounds during your heartbeat cycle — such as whooshing or swishing — made by turbulent blood in or near your heart. Heart murmurs can be present at birth (congenital) or develop later in life. A heart murmur isnt a disease — but murmurs may indicate an underlying heart problem. Often, heart murmurs are harmless (innocent) and dont need treatment. Some heart murmurs may require follow-up tests to be sure the murmur isnt caused by a serious underlying heart condition.",
+        "Thirdcol": "group with heart conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "Heart problems",
+        "Secondcol": "A general term laypeople may use to describe any number of health conditions involving the heart",
+        "Thirdcol": "group with ",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "hepatitis",
+        "Secondcol": "An infection or inflammation of the liver",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "hepatitis A",
+        "Secondcol": "Also known as autoimmune hepatitis, it is liver inflammation that occurs when your bodys immune system turns against liver cells. The exact cause of autoimmune hepatitis is unclear, but genetic and enviromental factors appear to interact over time in triggering the disease. Untreated, it can lead to scarring of the liver (cirrhosis) and eventually to liver failure.",
+        "Thirdcol": "group with hepatitis",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "hepatitis B",
+        "Secondcol": "A serious liver infection caused by the hepatitis B virus (HBV). For some people, hepatitis B infection becomes chronic, meaning it lasts more than six months. Having chronic hepatitis B increases your risk of developing liver failure, liver cancer or cirrhosis — a condition that permanently scars of the liver. Most adults with hepatitis B recover fully, even if their signs and symptoms are severe. Infants and children are more likely to develop a chronic (long-lasting) hepatitis B infection. A vaccine can prevent hepatitis B, but theres no cure if you have the condition. ",
+        "Thirdcol": "group with hepatitis",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "hepatitis C",
+        "Secondcol": "Hepatitis C is a viral infection that causes liver inflammation, sometimes leading to serious liver damage. The hepatitis C virus (HCV) spreads through contaminated blood.",
+        "Thirdcol": "group with hepatitis",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "high blood pressure, hypertension",
+        "Secondcol": "A common condition in which the long-term force of the blood against your artery walls is high enough that it may eventually cause health problems, such as heart disease. You can have high blood pressure (hypertension) for years without any symptoms. Even without symptoms, damage to blood vessels and your heart continues and can be detected. Uncontrolled high blood pressure increases your risk of serious health problems, including heart attack and stroke.",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "high cholesterol (hyperlipidemia)",
+        "Secondcol": "Cholesterol is a waxy substance thats found in the fats (lipids) in your blood. While your body needs cholesterol to continue building healthy cells, too much may cause you to develop fatty deposits in your blood vessels. Eventually, these deposits make it difficult for enough blood to flow through your arteries. Your heart may not get as much oxygen-rich blood as it needs, which increases the risk of a heart attack. Decreased blood flow to your brain can cause a stroke.",
+        "Thirdcol": "grop with heart conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "hospice",
+        "Secondcol": "Care is for people who are nearing the end of life provided by a team of health care professionals who maximize comfort for a person who is terminally ill by reducing pain and addressing physical, psychological, social and spiritual needs. To help families, hospice care also provides counseling, respite care and practical support. Unlike other medical care, the focus of hospice care isnt to cure the underlying disease. The goal of hospice care is to support the highest quality of life possible for whatever time remains.",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "insulin pump",
+        "Secondcol": "A device roughly the size of a pager or smaller that contains a syringe reservoir filled with insulin. A small flexible tube connects the reservoir of insulin to a catheter inserted under the skin in the abdomen. The pump releases rapid-acting insulin and delivers insulin in two ways: continuously (basal) and in bursts (bolus), to cover food eaten. An insulin dose is manually programed into the pump to cover food eaten.",
+        "Thirdcol": "group with diabetes",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "irregular heart beat",
+        "Secondcol": "A general term for a symptom of a number of conditions related to the heart; may describe a heart that beats too fast, too slow, or at a different rhythm than normal",
+        "Thirdcol": "group with heart conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "joint pain (chronic)",
+        "Secondcol": "A symptom of a number of conditions, most commonly arthritis or arthalgia, characterized by discomfort, pain or inflammation of any part of a joint including cartilage, bone, ligaments, tendons or muscles. It can be mild, causing soreness only after certain activities, or it can be severe, making even limited movement, particularly bearing weight, extremely painful.",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "kidney infection (pyelonephritis)",
+        "Secondcol": "A type of urinary tract infection (UTI) that generally begins in your urethra or bladder and travels to one or both of your kidneys that  requires prompt medical attention. If not treated properly, can permanently damage your kidneys or the bacteria can spread to your bloodstream and cause a life-threatening infection. Kidney infection treatment, which usually includes antibiotics, might require hospitalization.",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "kidney stones (renal lithiasis, nephrolithiasis) ",
+        "Secondcol": "Hard deposits made of minerals and salts that form inside your kidneys. Kidney stones have many causes and can affect any part of your urinary tract — from your kidneys to your bladder. Often, stones form when the urine becomes concentrated, allowing minerals to crystallize and stick together. Passing kidney stones can be quite painful, but the stones usually cause no permanent damage if theyre recognized in a timely fashion. ",
+        "Thirdcol": "group with ",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "lower extremity deep vein thrombosis",
+        "Secondcol": "Occurs when a blood clot (thrombus) forms in one or more of the deep veins in your body, usually in your legs. Deep vein thrombosis can cause leg pain or swelling, but also can occur with no symptoms.",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "mini-stroke (transient ischemic attack, or TIA)",
+        "Secondcol": "A temporary interruption of blood flow to part of the brain, spinal cord or retina, which may cause stroke-like symptoms but does not damage brain cells or cause permanent disability. TIAs are often an early warning sign that a person is at risk of stroke. ",
+        "Thirdcol": "group with brain conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "neuropathy",
+        "Secondcol": "Disease or dysfunction of one or more peripheral nerves, typically causing numbness or weakness.",
+        "Thirdcol": "group with diabetes",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "numbness in my legs",
+        "Secondcol": "A symptom of a number of conditions, including herniated disk, sciatica, and artherosclerosis",
+        "Thirdcol": "group with heart conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "oxygen",
+        "Secondcol": "A therapy used to treat several conditions including anemia, brain abscess, burns or other injuries that are slow to heal,  carbon monoxide poisoning, and breathing problems such is COPD ",
+        "Thirdcol": "group with lung or breathing conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "pancreatitis",
+        "Secondcol": "Pancreatitis is inflammation in the pancreas. The pancreas produces enzymes that help digestion and hormones that help regulate the way your body processes sugar (glucose). Acute pancreatitis appears suddenly and lasts for days. Chronic pancreatitis occurs over many years. Mild cases of pancreatitis may go away without treatment, but severe cases can cause life-threatening complications.",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "pneumonia",
+        "Secondcol": "An infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus (purulent material), causing cough with phlegm or pus, fever, chills, and difficulty breathing. A variety of organisms, including bacteria, viruses and fungi, can cause pneumonia. Pneumonia can range in seriousness from mild to life-threatening. It is most serious for infants and young children, people older than age 65, and people with health problems or weakened immune systems.",
+        "Thirdcol": "group with lung or breathing conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "post op issues",
+        "Secondcol": "Complications arising after a surgical procedure.",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "pressure socks",
+        "Secondcol": "Special socks or stockings designed to compress the legs to promote circulation.",
+        "Thirdcol": "group with heart conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "PSA (elevated)",
+        "Secondcol": "A measurement of prostate-specific antigen in your blood.  High levels of PSA may indicate the presence of prostate cancer. However, many other conditions, such as an enlarged or inflamed prostate, can also increase PSA levels. ",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "radiation therapy",
+        "Secondcol": "Radiation therapy is a type of cancer treatment that uses beams of intense energy to kill cancer cells. Radiation therapy most often uses X-rays, but protons or other types of energy also can be used. More than half of all people with cancer receive radiation therapy as part of their cancer treatment. Doctors use radiation therapy to treat just about every type of cancer. Radiation therapy is also useful in treating some noncancerous (benign) tumors.",
+        "Thirdcol": "group with cancer",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "rheumatoid arthritis",
+        "Secondcol": "Rheumatoid arthritis is a chronic inflammatory disorder that can affect more than just your joints. In some people, the condition also can damage a wide variety of body systems, including the skin, eyes, lungs, heart and blood vessels. An autoimmune disorder, rheumatoid arthritis occurs when your immune system mistakenly attacks your own bodys tissues. Unlike the wear-and-tear damage of osteoarthritis, rheumatoid arthritis affects the lining of your joints, causing a painful swelling that can eventually result in bone erosion and joint deformity.",
+        "Thirdcol": "group with arthritis",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "scale (ask if heart failure)",
+        "Secondcol": "A device used to measure weight.  Regular weight monitoring is important for patients with CHF (Cronic Heart Failure) as it is the first sign that heart failure is getting worse.  Patients can gain up to 10 pounds of weight from fluid before noticing symptoms such as feeling bad or swelling.",
+        "Thirdcol": "grop with heart conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "schizophrenia",
+        "Secondcol": "A serious mental disorder in which people interpret reality abnormally. Schizophrenia may result in some combination of hallucinations, delusions, and extremely disordered thinking and behavior that impairs daily functioning, and can be disabling. People with schizophrenia require lifelong treatment. Early treatment may help get symptoms under control before serious complications develop and may help improve the long-term outlook.",
+        "Thirdcol": "group with mental health conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "seizures",
+        "Secondcol": "A seizure is a sudden, uncontrolled electrical disturbance in the brain. It can cause changes in your behavior, movements or feelings, and in levels of consciousness. If you have two or more seizures or a tendency to have recurrent seizures, you have epilepsy. There are many types of seizures, which range in severity. Seizure types vary by where and how they begin in the brain. Most seizures last from 30 seconds to two minutes. A seizure that lasts longer than five minutes is a medical emergency.",
+        "Thirdcol": "group with brain conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "shortness of breath ",
+        "Secondcol": "A symptom of a number of heart or lung conditions.  Your heart and lungs are involved in transporting oxygen to your tissues and removing carbon dioxide, and problems with either of these processes affect your breathing.",
+        "Thirdcol": "group with lung or breathing conditions",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "stop smoking",
+        "Secondcol": "Smoking Cessastion",
+        "Thirdcol": "group with benefits quit line?",
+        "FourthCol": "Benefits Quit Line?",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "stroke",
+        "Secondcol": "A stroke is a sudden interruption in the blood supply of the brain. Most strokes are caused by an abrupt blockage of arteries leading to the brain (ischemic stroke).  Other strokes are caused by bleeding into brain tissue when a blood vessel bursts (hemorrhagic stroke)",
+        "Thirdcol": "group with brain conditions",
+        "FourthCol": "",
+        "Fifthcol": "Cardio Vascular"
+    },
+    {
+        "Firstcol": "test strips",
+        "Secondcol": "Glucose test strips for diabetes",
+        "Thirdcol": "group with diabetes",
+        "FourthCol": "",
+        "Fifthcol": "Diabetes"
+    },
+    {
+        "Firstcol": "wound",
+        "Secondcol": " A wound occurs when the integrity of any tissue is compromised (e.g. skin breaks, muscle tears, burns, or bone fractures)",
+        "Thirdcol": "group with ",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "weight problem",
+        "Secondcol": "Self explanatory",
+        "Thirdcol": "group with obesity",
+        "FourthCol": "",
+        "Fifthcol": "Health Coach Dietician"
+    },
+    {
+        "Firstcol": "pace maker",
+        "Secondcol": "A system that sends electrical impulses to the heart in order to set the heart rhythm. The pacemaker can be the normal \"natural\" pacemaker of the heart or it can be an electronic device.",
+        "Thirdcol": "group with heart conditions",
+        "Fifthcol": "Cardovascular"
+    },
+    {
+        "Firstcol": "incontinence",
+        "Secondcol": "Involuntary control of stool, bowel or bladder movements. ",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "ostomy bags",
+        "Secondcol": "An ostomy pouching system is a prosthetic medical device that provides a means for the collection of waste from a surgically diverted biological system (colon, ileum, bladder) and the creation of a stoma. Pouching systems are most commonly associated with colostomies, ileostomies, and urostomies.",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "colostomy supplies",
+        "Secondcol": "See ostomy bags",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "ileostomy supplies ",
+        "Secondcol": "a surgical operation in which a piece of the ileum (digestive system) is diverted to an artificial opening in the abdominal wall.",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "hip replacement ",
+        "Secondcol": "Hip replacement is a surgical procedure in which the hip joint is replaced by a prosthetic implant, that is, a hip prosthesis. Hip replacement surgery can be performed as a total replacement or a hemi (half) replacement.",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": "Orthopaedic"
+    },
+    {
+        "Firstcol": "knee replacement ",
+        "Secondcol": "A surgical procedure in which damaged parts of the knee joint are replaced with artifical parts.",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": "Orthopaedic"
+    },
+    {
+        "Firstcol": "IBS",
+        "Secondcol": "Irritable bowel syndrome (IBS) is a common disorder that affects the large intestine. Signs and symptoms include cramping, abdominal pain, bloating, gas, and diarrhea or constipation, or both. IBS is a chronic condition that youll need to manage long term",
+        "Thirdcol": "",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "auto immune disease ",
+        "Secondcol": "An autoimmune disease is a condition in which your immune system mistakenly attacks your body. The immune system normally guards against germs like bacteria and viruses. When it senses these foreign invaders, it sends out an army of fighter cells to attack them",
+        "Thirdcol": "Lupus, Psoriasis, Rheumatoid Arthritis",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "ulcers ",
+        "Secondcol": "An open sore on an external or internal surface of the body, caused by a break in the skin or mucous membrane that fails to heal. Can be internal such as stomach or bowel ulcers or can be external like bed sores. ",
+        "Thirdcol": "group with digestive system",
+        "FourthCol": "",
+        "Fifthcol": ""
+    },
+    {
+        "Firstcol": "allergies",
+        "Secondcol": "Your immune systems reaction to something that’s usually harmless. Those triggers, which doctors call \"allergens,\" can include pollen, mold, animal dander, certain foods, medications, or things that irritate your skin. Alergies are very common.  At least 1 in 5 Americans has one.",
+        "Thirdcol": "rash, hives; runny, itchy nose, sneezing; itchy, watery eyes, anaphalaxis, EpiPen, epinephrine, Benadryl, antihistamine, peanut allergy",
+        "FourthCol": "Respiratory system, immune system, integumentary system (skin)",
+        "Fifthcol": "Allergists, Pulmonologists, Internists, Immunologists, Pediatricians"
+    },
+    {
+        "Firstcol": "ADD/ADHD",
+        "Secondcol": "Attention deficit hyperactivity disorder; affects children and teens and can continue into adulthood; the most commonly diagnosed mental disorder of children;  Children with ADHD may be hyperactive and unable control their impulses. Or they may have trouble paying attention. These behaviors interfere with school and home life.  Adults with ADHD may have trouble managing time, being organized, setting goals, and holding down a job. They may also have problems with relationships, self-esteem, and addiction.",
+        "Thirdcol": "fidgets, cant sit still, cant concentrate, cant pay attention, disorganized, forgets assignments, performing poorly in school",
+        "FourthCol": "Mental health; the brain",
+        "Fifthcol": "Psychotherapists, Psychiatrists, Pediatricians, Neurologists, Family Physicians"
+    },
+    {
+        "Firstcol": "depression ",
+        "Secondcol": "A mood disorder that causes a persistent feeling of sadness and loss of interest. Also called major depressive disorder or clinical depression, it affects how you feel, think and behave and can lead to a variety of emotional and physical problems. You may have trouble doing normal day-to-day activities, and sometimes you may feel as if life isnt worth living.",
+        "Thirdcol": "the blues; sad; angry; cant sleep; sleeping too much; irritable; empty; hopeless; tired; suicidal; unmotivated",
+        "FourthCol": "Mental health; the brain",
+        "Fifthcol": "Psychiatrists, Psychologists"
+    },
+    {
+        "Firstcol": "infertility *",
+        "Secondcol": "Not being able to get pregnant despite having frequent, unprotected sex for at least a year for most couples.  May result from an issue with either the male or female.",
+        "Thirdcol": "group with reproductive system",
+        "FourthCol": "Reproductive system",
+        "Fifthcol": "Endocrinology, Obstetrics and Gynecology, Urology"
+    },
+    {
+        "Firstcol": "pregnancy complications",
+        "Secondcol": "Health problems that occur during pregnancy; they can involve the mothers health, the babys, or both.",
+        "Thirdcol": "pregnancy problem; anemia; urinary tract infection; hypertension (high blood pressure); gestational diabetes; morning sickness; preeclampsia",
+        "FourthCol": "Reproductive system",
+        "Fifthcol": "Obstetrics and Gynecology"
+    }
+]

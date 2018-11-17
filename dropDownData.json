@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Acute Medical Condition Case Management",
+    "Description": "Under the Acute Medical Condition Case Management Program, specially trained nurses work with the member and their provider on best options for treatment. This program is recommended for members who have had a new or recent diagnosis, surgeries, injuries etc. ",
+    "title": "Case Management"
+  },
+  {
+    "name": "Benefit Education Case Management",
+    "Description": "Under the Benefits Case Management Program, specially trained nurses work with the member to help them understand what is covered as part of their plan, how they can maximize their benefits by going in-network vs. out of network etc. ",
+    "title": "Case Management"
+  },
+  {
+    "name": "Cancer diagnosis Case Management",
+    "Description": "Under the Benefits Case Management Program, specially trained nurses work with the member to help them understand what is Under the Cancer Diagnosis Case Management Program, nurses who are specially trained to work with members who have been diagnosed with cancer work with them to discuss the most effective treatment options they have. They specialize in various cancer treatments including bone-marrow or any other transplants.",
+    "title": "Case Management"
+  },
+  {
+    "name": "DME needs Case Management",
+    "Description": "DME Needs Case Management Program is recommended for members who need rehabilitation from surgery etc. and require medical equipment such as wheelchairs, hospital beds, monitoring devices, molds etc.",
+    "title": "Case Management"
+  },
+  {
+    "name": "Hospice Case Management",
+    "Description": "Hospice Case Management program is recommended for members who do not have treatment options available and have been told by their provider that they have less than 6 months to live.",
+    "title": "Case Management"
+  },
+  {
+    "name": "Palliative Care Case Management",
+    "Description": "Palliative Care Case Management program is recommended for members who have various end-stage conditions with no more treatment options available, and do not want to go in and out of the hospital but are looking for relief from their symptoms. ",
+    "title": "Case Management"
+  },
+  {
+    "name": "Cardiac Rehab Case Management",
+    "Description": "Cardiac Rehab Case Management program is recommended for members who are rehabilitating from a heart attack.",
+    "title": "Case Management"
+  },
+  {
+    "name": "Rehab Case Management I",
+    "Description": "Rehab Case Management program is a program that is very similar to the DME Needs Case Management program. Mark this on the Customer Referral form to help team leads align the member with the most suitable case management program for their situation.",
+    "title": "Case Management"
+  },
+  {
+    "name": "Skilled Nursing Facility (SNF) Case Management",
+    "Description": "The Skilled Nursing Facility (SNF) Case Management program is a transition of care program that is suitable for members who have either used up their SNF benefits, or are currently in an SNF and we want to get them out of there into their homes.",
+    "title": "Case Management"
+  },
+  {
+    "name": "Chronic Condition Assistance or Education Health Coach: Congestive Heart Failure (CHF)",
+    "Description": "The Congestive Heart Failure (CHF) Chronic Condition Assistance program involves Health Coaches working with a member over an extended period of time to manage their condition so that they can enjoy their life to the maximum with conditions that they continue to have. ",
+    "title": "Health Coaching"
+  },
+  {
+    "name": "Chronic Condition Assistance or Education Health Coach: Disease (COPD) ",
+    "Description": "The Coronary Obstructive Pulmonary Disease (COPD) Chronic Condition Assistance program involves Health Coaches working with a member over an extended period of time to manage their condition so that they can enjoy their life to the maximum while continuing to have COPD. ",
+    "title": "Health Coaching"
+  },
+  {
+    "name": "Chronic Condition Assistance or Education Health Coach: Diabetes",
+    "Description": "Under the Diabetes Chronic Condition Assistance Program, we have two nurses with special certification in diabetes education who support members who have diabetes to manage their lives on an ongoing basis.",
+    "title": "Health Coaching"
+  },
+  {
+    "name": "Chronic Condition Assistance or Education Health Coach: Asthma",
+    "Description": "Under the Asthma Chronic Condition Assistance Program, nurses support members who have asthma to manage their lives on an ongoing basis.",
+    "title": "Health Coaching"
+  },
+  {
+    "name": "Chronic Condition Assistance or Education Health Coach: Coronary Artery Disease (CAD)",
+    "Description": "The Coronary Artery Disease (CAD) Chronic Condition Assistance program involves Health Coaches working with a member over an extended period of time to manage their condition so that they can enjoy their life to the maximum while continuing to have CAD. ",
+    "title": "Health Coaching"
+  },
+  {
+    "name": "Chronic Condition Assistance or Education Health Coach: High BP (HTN)",
+    "Description": "The High Blood Pressure Chronic Condition Assistance program involves Health Coaches working with a member over an extended period of time to manage their condition so that they can enjoy their life to the maximum while continuing to have high BP. ",
+    "title": "Health Coaching"
+  },
+  {
+    "name": "Medication assistance programs Health Coach",
+    "Description": "Under the Medication Assistance Program, Health Coaches work with the member to help them understand the medications that are covered as part of their plan, and how they can maximize their benefits for any ongoing medication they take. ",
+    "title": "Health Coaching"
+  },
+  {
+    "name": "Medication questions Health Coach",
+    "Description": "Under the Medication Questions Program, Health Coaches work with the member for any questions they have around their medication.",
+    "title": "Health Coaching"
+  },
+  {
+    "name": "Tobacco Cessation Health Coach",
+    "Description": "Under the Tobacco Cessation Program, Health Coaches work with the member to support them in their effort to reduce or give up tobacco consumption. ",
+    "title": "Health Coaching"
+  },
+  {
+    "name": "Weight Management Health Coach",
+    "Description": "Under the Weight Mangement Program, Health Coaches work with the member to support them in their effort to manage their weight. ",
+    "title": "Health Coaching"
+  },
+  {
+    "name": "Diabetes Assistance or Education  Certified Diabetes Educator",
+    "Description": "The Diabetes Education / Assistance Program is focused around the resources available for cost management and education around Diabetes. A Social Worker who is assigned via a nurse has access to various community resources for this. This program is different from Diabetes Chronic Condition Assistance which is focused on the clinical aspect of Diabetes.",
+    "title": "Certified Diabetes Educator"
+  }
+]
